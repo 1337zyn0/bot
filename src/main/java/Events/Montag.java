@@ -5,11 +5,8 @@ import static Events.P4TIMES.isBetween;
 import java.time.LocalTime;
 
 public class Montag {
-    public String getModus;
 
-    public String Montag() {
-        String x = getModus();
-        return x;
+    public Montag() {
     }
 
     public String getModus() {

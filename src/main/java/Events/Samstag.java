@@ -1,17 +1,11 @@
 package Events;
 
 import static Events.P4TIMES.isBetween;
-
 import java.time.LocalTime;
-import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 
 public class Samstag {
 
-    public String getModus;
-
-    public String Samstag(){
-        String x = getModus();
-        return x;
+    public Samstag(){
     }
 
     public String getModus() {

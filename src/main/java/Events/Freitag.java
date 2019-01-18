@@ -4,11 +4,8 @@ import java.time.LocalTime;
 import static Events.P4TIMES.isBetween;
 
 public class Freitag {
-    public String getModus;
 
-    public String Freitag() {
-        String x = getModus();
-        return x;
+    public Freitag() {
     }
 
     public String getModus() {

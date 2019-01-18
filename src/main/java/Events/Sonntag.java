@@ -5,11 +5,8 @@ import static Events.P4TIMES.isBetween;
 import java.time.LocalTime;
 
 public class Sonntag {
-    public String getModus;
 
-    public String Sonntag() {
-        String x = getModus();
-        return x;
+    public Sonntag() {
     }
 
     public String getModus() {

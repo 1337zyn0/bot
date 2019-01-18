@@ -28,7 +28,6 @@ public class ausrufungszeichenEvent {
     String befehl = "";
 
     public ausrufungszeichenEvent() {
-
     }
 
     public String checkModi(String bef) {
