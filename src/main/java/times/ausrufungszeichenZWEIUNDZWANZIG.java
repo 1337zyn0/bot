@@ -18,17 +18,17 @@ public class ausrufungszeichenZWEIUNDZWANZIG {
         if (Tag.equals("Monday")) {
             modus = "Battle Royal 100% 3v3";
         } else if (Tag.equals("Tuesday")) {
-            modus = "Battle Royal Survivor 4v4";
+            modus = "Battle Royal 100% 3v3";
         } else if (Tag.equals("Wednesday")) {
             modus = "Battle Royal 100% 3v3";
         } else if (Tag.equals("Thursday")) {
-            modus = "Battle Royal Survivor 4v4";
+            modus = "Battle Royal 100% 3v3";
         } else if (Tag.equals("Friday")) {
             modus = "Battle Royal 100% 3v3";
         } else if (Tag.equals("Saturday")) {
-            modus = "Battle Royal Survivor 4v4";
+            modus = "Battle Royal Random 3v3";
         } else if (Tag.equals("Sunday")) {
-            modus = "Battle Royal Survivor 4v4";
+            modus = "Battle Royal Random 3v3";
         }
         return modus;
     }
